@@ -1,6 +1,11 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-### Olá eu sou José Valverde 👋
-<h3 align="left">Developer from Portugal</h3>
+<!-- Início do banner GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Banner GIF">
+</p>
+<!-- Fim do banner GIF -->
+# José Valverde
+Olá! Eu sou um desenvolvedor de Portugal, apaixonado por programação e tecnologia.
+
 
 ## Sobre mim
 - 🌱 Atualmente estou aprendendo diversas tecnologias, incluindo Android, C++, Python e JavaScript.
